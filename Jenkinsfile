@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GIT_REPO_URL = 'https://github.com/GeneroseRol/cicd'
-        GIT_CREDENTIALS_ID = 'github-patt'
+        GIT_CREDENTIALS_ID = 'github-pat'
         GIT_BRANCH = 'main'
     }
 
